@@ -1,0 +1,8 @@
+# Foundry files
+/cache
+/out
+.env
+artifacts
+coverage
+coverage.json
+dependencies
